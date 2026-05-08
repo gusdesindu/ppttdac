@@ -15,3 +15,5 @@ galang https://canva.link/8xx8awyzi9niyou
 gata https://canva.link/87alai2d4hbne6m
 ---
 
+rehan https://gamma.app/docs/Transformasi-Digital-dalam-Layanan-Pariwisata-xsdpng9scuysx1g
+---
