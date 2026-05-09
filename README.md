@@ -17,3 +17,6 @@ gata https://canva.link/87alai2d4hbne6m
 
 rehan https://gamma.app/docs/Transformasi-Digital-dalam-Layanan-Pariwisata-xsdpng9scuysx1g
 ---
+
+ega https://gamma.app/docs/Etika-dan-Efektivitas-Chatbot-AI-dalam-Industri-Pariwisata-3j9sousfx6rsen2
+---
