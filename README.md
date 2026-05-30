@@ -12,7 +12,9 @@ dirga https://canva.link/1zx0p9mpgjfvht2
 galang https://canva.link/8xx8awyzi9niyou
 ---
 
-gata https://assets.api.gamma.app/export/pdf/3v201dz51h9y29k/773afaf346748c8d86d42ac5255065f9/Transformasi-Pariwisata-Peran-AI-TI-and-BI.pdf
+
+gata
+https://gamma.app/docs/3v201dz51h9y29k
 ---
 
 rehan https://gamma.app/docs/Transformasi-Digital-dalam-Layanan-Pariwisata-xsdpng9scuysx1g
