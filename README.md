@@ -14,7 +14,7 @@ galang https://canva.link/8xx8awyzi9niyou
 
 
 gata
-https://gamma.app/docs/3v201dz51h9y29k
+[https://gamma.app/docs/3v201dz51h9y29k](https://gamma.app/docs/Transformasi-Pariwisata-Peran-AI-TI-BI-3v201dz51h9y29k)
 ---
 
 rehan https://gamma.app/docs/Transformasi-Digital-dalam-Layanan-Pariwisata-xsdpng9scuysx1g
